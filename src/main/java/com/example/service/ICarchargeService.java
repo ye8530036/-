@@ -10,8 +10,6 @@ import com.example.model.Carcharge;
  *  服务类
  * </p>
  *
- * @author kappy
- * @since 2020-11-08
  */
 
 public interface ICarchargeService extends IService<Carcharge> {

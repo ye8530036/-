@@ -10,8 +10,6 @@ import com.github.pagehelper.PageInfo;
  *  服务类
  * </p>
  *
- * @author kappy
- * @since 2020-11-08
  */
 public interface IBuildingService extends IService<Building> {
 

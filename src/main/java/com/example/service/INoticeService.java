@@ -9,8 +9,6 @@ import com.example.model.Notice;
  *  服务类
  * </p>
  *
- * @author kappy
- * @since 2020-11-08
  */
 public interface INoticeService extends IService<Notice> {
 

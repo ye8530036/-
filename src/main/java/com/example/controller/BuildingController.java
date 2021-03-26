@@ -23,8 +23,6 @@ import java.util.List;
  *  前端控制器
  * </p>
  *
- * @author kappy
- * @since 2020-11-08
  */
 @Api(tags = {""})
 @RestController
@@ -73,7 +71,7 @@ public class BuildingController {
     @RequestMapping("/deleteByIds")
     public R delete(String  ids){
         List<String> list= Arrays.asList(ids.split(","));
-        //遍历遍历进行删除
+        //遍历进行删除
         for(String id:list){
             buildingService.delete(Long.parseLong(id));
         }

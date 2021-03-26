@@ -10,8 +10,6 @@ import com.github.pagehelper.PageInfo;
  *  服务类
  * </p>
  *
- * @author kappy
- * @since 2020-10-28
  */
 public interface IRecordsService extends IService<Records>{
 

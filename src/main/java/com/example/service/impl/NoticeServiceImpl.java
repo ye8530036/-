@@ -14,8 +14,6 @@ import org.springframework.stereotype.Service;
  *  服务实现类
  * </p>
  *
- * @author kappy
- * @since 2020-11-08
  */
 @Service
 public class NoticeServiceImpl extends ServiceImpl<NoticeMapper, Notice> implements INoticeService {

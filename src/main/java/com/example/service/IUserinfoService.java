@@ -10,8 +10,6 @@ import com.example.model.Userinfo;
  *  服务类
  * </p>
  *
- * @author kappy
- * @since 2020-10-28
  */
 public interface IUserinfoService extends IService<Userinfo> {
 

@@ -12,8 +12,6 @@ import java.util.List;
  *  Mapper 接口
  * </p>
  *
- * @author kappy
- * @since 2020-10-28
  */
 @Component("repairDao")
 public interface RepairMapper extends BaseMapper<Repair> {

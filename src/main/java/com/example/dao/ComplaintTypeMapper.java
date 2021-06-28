@@ -8,8 +8,6 @@ import com.example.model.ComplaintType;
  *  Mapper 接口
  * </p>
  *
- * @author kappy
- * @since 2020-11-08
  */
 public interface ComplaintTypeMapper extends BaseMapper<ComplaintType> {
 

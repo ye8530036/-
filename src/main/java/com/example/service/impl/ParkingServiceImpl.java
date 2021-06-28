@@ -19,8 +19,6 @@ import java.util.List;
  *  服务实现类
  * </p>
  *
- * @author kappy
- * @since 2020-10-28
  */
 @Service
 public class ParkingServiceImpl extends ServiceImpl<ParkingMapper, Parking> implements IParkingService {

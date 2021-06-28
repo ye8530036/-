@@ -20,9 +20,6 @@ import java.util.List;
  * <p>
  *  服务实现类
  * </p>
- *
- * @author kappy
- * @since 2020-11-08
  */
 @Service
 public class PropertyInfoServiceImpl extends ServiceImpl<PropertyInfoMapper, PropertyInfo> implements IPropertyInfoService {

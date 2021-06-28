@@ -11,8 +11,6 @@ import java.util.List;
  *  Mapper 接口
  * </p>
  *
- * @author kappy
- * @since 2020-11-08
  */
 @Component("complaintDao")
 public interface ComplaintMapper extends BaseMapper<Complaint> {

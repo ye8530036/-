@@ -18,8 +18,6 @@ import javax.annotation.Resource;
  *  前端控制器
  * </p>
  *
- * @author kappy
- * @since 2020-11-08
  */
 @Api(tags = {""})
 @RestController

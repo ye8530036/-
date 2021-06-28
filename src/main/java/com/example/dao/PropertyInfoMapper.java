@@ -12,8 +12,6 @@ import java.util.List;
  *  Mapper 接口
  * </p>
  *
- * @author kappy
- * @since 2020-11-08
  */
 @Component("propertyInfoDao")
 public interface PropertyInfoMapper extends BaseMapper<PropertyInfo> {

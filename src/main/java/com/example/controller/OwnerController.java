@@ -19,10 +19,7 @@ import javax.annotation.Resource;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * @author kappy
- * @since 2020-11-08
- */
+
 @Api(tags = {""})
 @RestController
 @RequestMapping("/owner")

@@ -19,8 +19,6 @@ import java.util.List;
  *  服务实现类
  * </p>
  *
- * @author kappy
- * @since 2020-11-08
  */
 @Service
 public class OwnerServiceImpl extends ServiceImpl<OwnerMapper, Owner> implements IOwnerService {

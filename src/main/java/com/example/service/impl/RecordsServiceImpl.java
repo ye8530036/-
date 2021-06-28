@@ -16,9 +16,6 @@ import java.util.List;
  * <p>
  *  服务实现类
  * </p>
- *
- * @author kappy
- * @since 2020-10-28
  */
 @Service
 public class RecordsServiceImpl extends ServiceImpl<RecordsMapper, Records> implements IRecordsService {
